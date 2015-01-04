@@ -1,0 +1,33 @@
+#test the if driver routine.
+echo enter variable a
+read a
+echo enter variable b
+read b
+echo enter variable c
+read c
+
+
+
+echo variable a value is
+
+pr a
+
+echo variable b value is
+pr b
+echo variable c value is
+pr c
+
+
+if'(a>b & a>c)
+{
+	'a
+}
+else if'(c>a & c>b)
+{
+	echo highest number is
+	'c
+}
+else
+{
+	'b
+}

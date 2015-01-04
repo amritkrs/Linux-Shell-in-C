@@ -1,0 +1,19 @@
+#THIS SCRIPT IS TO SHOW THE TYPE OF WILDCARD EXPANSION SUPPORTED.
+echo tilda expansion example
+echo "echo ~amrit"
+echo ~amrit
+echo please press 1 to continue
+read a
+if'(a==1)
+{
+	echo wildcard expansion
+	echo "echo *"
+	echo *
+}
+else
+{
+	while'(a!=1)
+		read a
+	echo good
+}
+

@@ -1,0 +1,41 @@
+Script started on Sat 23 Mar 2013 03:53:02 PM IST
+]0;root@sys53:/home/amrit/Project/app_data[root@sys53 app_data]# run script
+bash: run: command not found
+]0;root@sys53:/home/amrit/Project/app_data[root@sys53 app_data]# ./Pro[K[K[K[K[Kshell
+[AM-SHELL:/home/amrit/Project/app_data]$ run script
+Enter n to find its factorial
+23
+The factorial is
+25852017444594485559296.000000
+[AM-SHELL:/home/amrit/Project/app_data]$ [AM-SHELL:/home/amrit/Project/app_data]$ h ^[[D    cd /home
+[AM-SHELL:/home]$ ls
+adarsh	     bala	chinmaya  CIE4		Contest      jyothi  nitin  project	  saikrishna  shubhranshu  sriyogeshproject  teacher
+amrit	     bharadwaj	CIE1	  CIE5		ContestSoln  kamal   parth  projectgroup  sairaam     singh	   sundaresh	     VSemEndExam
+anirudh      bishnu	CIE2	  CIE6		gdbdemo      karan   patil  pruthvik	  sanik       sn	   suriya	     yogesh
+Assignments  chaitanya	CIE3	  codingtheory	gourang      naveen  phy    saiganesh	  shiva       srikanth	   swayam
+[AM-SHELL:/home]$ cd    ls    chmod 777 CIE5
+[AM-SHELL:/home]$ ls
+adarsh	     bala	chinmaya  CIE4		Contest      jyothi  nitin  project	  saikrishna  shubhranshu  sriyogeshproject  teacher
+amrit	     bharadwaj	CIE1	  CIE5		ContestSoln  kamal   parth  projectgroup  sairaam     singh	   sundaresh	     VSemEndExam
+anirudh      bishnu	CIE2	  CIE6		gdbdemo      karan   patil  pruthvik	  sanik       sn	   suriya	     yogesh
+Assignments  chaitanya	CIE3	  codingtheory	gourang      naveen  phy    saiganesh	  shiva       srikanth	   swayam
+[AM-SHELL:/home]$ cd CIE5
+[AM-SHELL:/home/CIE5]$ ls
+adarsh	anirudh  bhaardwaj  chaitanya  jyothi  karan   nitin  QP2.txt	      sairaam  shubhranshu  srikanth   suriya	  wc
+amrit	bala	 bharadwaj  ganesh     kamal   naveen  patil  QpaperCIE2.txt  sanik    singh	    sundaresh  users.txt  yogesh
+[AM-SHELL:/home/CIE5]$ cd ^[[A^[[A           chmo   d ..
+[AM-SHELL:/home]$ ls
+adarsh	     bala	chinmaya  CIE4		Contest      jyothi  nitin  project	  saikrishna  shubhranshu  sriyogeshproject  teacher
+amrit	     bharadwaj	CIE1	  CIE5		ContestSoln  kamal   parth  projectgroup  sairaam     singh	   sundaresh	     VSemEndExam
+anirudh      bishnu	CIE2	  CIE6		gdbdemo      karan   patil  pruthvik	  sanik       sn	   suriya	     yogesh
+Assignments  chaitanya	CIE3	  codingtheory	gourang      naveen  phy    saiganesh	  shiva       srikanth	   swayam
+[AM-SHELL:/home]$ cd CIE4^[OH^[[3~                chmod  od 77 CIE*
+chmod: cannot access `CIE*': No such file or directory
+[AM-SHELL:/home]$ ^[[A    q bye
+]0;root@sys53:/home/amrit/Project/app_data[root@sys53 app_data]# shellrun scriptvi numbers.txt [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kcd /home/CIE4[K[K[K[K
+]0;root@sys53:/home[root@sys53 home]# ls
+[00m[00;34madarsh[00m       [00;34mbala[00m       [00;34mchinmaya[00m  [00;34mCIE4[00m          [00;34mContest[00m      [00;34mjyothi[00m  [00;34mnitin[00m  [00;34mproject[00m       [00;34msaikrishna[00m  [00;34mshubhranshu[00m  [00;34msriyogeshproject[00m  [00;34mteacher[00m
+[00;34mamrit[00m        [00;34mbharadwaj[00m  [00;34mCIE1[00m      [00;34mCIE5[00m          [00;34mContestSoln[00m  [00;34mkamal[00m   [00;34mparth[00m  [00;34mprojectgroup[00m  [00;34msairaam[00m     [00;34msingh[00m        [00;34msundaresh[00m         [00;34mVSemEndExam[00m
+[00;34manirudh[00m      [00;34mbishnu[00m     [00;34mCIE2[00m      [00;34mCIE6[00m          [00;34mgdbdemo[00m      [00;34mkaran[00m   [00;34mpatil[00m  [00;34mpruthvik[00m      [00;34msanik[00m       [00;34msn[00m           [00;34msuriya[00m            [00;34myogesh[00m
+[00;34mAssignments[00m  [00;34mchaitanya[00m  [00;34mCIE3[00m      [00;34mcodingtheory[00m  [00;34mgourang[00m      [00;34mnaveen[00m  [00;34mphy[00m    [00;34msaiganesh[00m     [00;34mshiva[00m       [00;34msrikanth[00m     [00;34mswayam[00m
+[m]0;root@sys53:/home[root@sys53 hom
